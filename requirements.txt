@@ -1,0 +1,13 @@
+pandas
+textblob
+kafka-python-ng
+pymongo
+Flask==2.0.2
+python-dotenv==0.19.2
+apache-airflow
+psycopg2-binary
+pyspark
+requests
+google-api-python-client==2.39.0
+google-auth==2.6.0
+simplejson
