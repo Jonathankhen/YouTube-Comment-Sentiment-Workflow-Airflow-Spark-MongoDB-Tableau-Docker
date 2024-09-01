@@ -141,7 +141,7 @@ The sentiment analysis is conducted using Python’s NLP libraries, which analyz
 
 ![Tableau Dashboard](https://github.com/user-attachments/assets/3777844e-d5ab-46e1-9a88-1818eb6f5c8f)
 ![Tableau Insights](https://github.com/user-attachments/assets/d9ef17e7-8015-4199-bbd1-ada58241226f)
-![Tableau Data Visualization](https://github.com/user-attachments/assets/5ab5d234-9ec5-439f-96b4-7b8cefe1f614)
+![Tableau Data Visualization](https://github.com/user-attachments/assets/e8d52be2-79ff-478d-8a32-b05f15abfb36)
 
 ## Advantages and Applications
 The YouTube Sentiment Analytics Workflow offers several significant advantages:
